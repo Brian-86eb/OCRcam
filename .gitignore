@@ -1,0 +1,17 @@
+
+# Ignorar todo
+/*
+
+# Pero no estos archivos y directorios
+!.gitignore
+!OCRcam/
+!scripts/
+!Docuemntacion_aplicacion/
+!README.md
+
+# Ignorar archivos generados
+*.pyc
+__pycache__/
+venv/
+.vscode/
+
